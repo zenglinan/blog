@@ -16,8 +16,7 @@
 - [7. JavaScript 之函数防抖](https://github.com/zenglinan/blog/issues/7)
 - [8. JavaScript 之函数节流](https://github.com/zenglinan/blog/issues/8)
 - [9. JavaScript 之类型判断](https://github.com/zenglinan/blog/issues/9)
-
-参考: [冴羽的博客](https://github.com/mqyqingfeng/Blog)
+- [10. JavaScript 之深浅拷贝](https://github.com/zenglinan/blog/issues/17)
 
 > 性能优化
 - [1. 理解浏览器对页面的渲染过程](https://github.com/zenglinan/blog/issues/10)
