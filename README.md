@@ -27,3 +27,7 @@
 > Node.js
 - [1. 手撸手, 用 Node.js 摸一个仿 express 的 http 服务器](https://github.com/zenglinan/blog/issues/15)
 - [2. 手撸手, 探究 Node.js 中的模块机制](https://github.com/zenglinan/blog/issues/16)
+
+> Others
+- [1. 浏览器的 Event Loop 机制](https://github.com/zenglinan/blog/issues/18)
+
