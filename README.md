@@ -33,5 +33,7 @@
 
 > 随手笔记
 - [1. 随手笔记之对象中的属性遍历](https://github.com/zenglinan/blog/issues/19)
+- [2. 随手笔记之 Mongoose 基础操作](https://github.com/zenglinan/blog/issues/20)
+
 
 
