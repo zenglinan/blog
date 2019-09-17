@@ -27,14 +27,14 @@
 > Node.js
 - [1. 手撸手, 用 Node.js 摸一个仿 express 的 http 服务器](https://github.com/zenglinan/blog/issues/15)
 - [2. 手撸手, 探究 Node.js 中的模块机制](https://github.com/zenglinan/blog/issues/16)
+- [3. Node.js 之 Mongoose 入门](https://github.com/zenglinan/blog/issues/20)
 
 > Others
 - [1. 浏览器的 Event Loop 机制](https://github.com/zenglinan/blog/issues/18)
 
 > 随手笔记
 - [1. 随手笔记之对象中的属性遍历](https://github.com/zenglinan/blog/issues/19)
-- [2. 随手笔记之 Mongoose 基础操作](https://github.com/zenglinan/blog/issues/20)
-- [3. 随手笔记之 Node.js 操作 redis](https://github.com/zenglinan/blog/issues/21)
+- [2. 随手笔记之 Node.js 操作 redis](https://github.com/zenglinan/blog/issues/21)
 
 
 
