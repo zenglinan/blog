@@ -30,6 +30,9 @@
 - [2. 手撸手, 探究 Node.js 中的模块机制](https://github.com/zenglinan/blog/issues/16)
 - [3. Node.js 之 Mongoose 入门](https://github.com/zenglinan/blog/issues/20)
 
+> HTTP
+- [1. 常见的鉴权手段](https://github.com/zenglinan/blog/issues/25)
+
 > Others
 - [1. 浏览器的 Event Loop 机制](https://github.com/zenglinan/blog/issues/18)
 
