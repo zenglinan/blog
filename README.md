@@ -29,6 +29,7 @@
 - [1. 手撸手, 用 Node.js 摸一个仿 express 的 http 服务器](https://github.com/zenglinan/blog/issues/15)
 - [2. 手撸手, 探究 Node.js 中的模块机制](https://github.com/zenglinan/blog/issues/16)
 - [3. Node.js 之 Mongoose 入门](https://github.com/zenglinan/blog/issues/20)
+- [4. Node.js 之 探究 Express 的中间件机制](https://github.com/zenglinan/blog/issues/26)
 
 > HTTP
 - [1. 常见的鉴权手段](https://github.com/zenglinan/blog/issues/25)
