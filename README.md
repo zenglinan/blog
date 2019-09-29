@@ -40,6 +40,6 @@
 - [1. 随手笔记之对象中的属性遍历](https://github.com/zenglinan/blog/issues/19)
 - [2. 随手笔记之 Node.js 操作 redis](https://github.com/zenglinan/blog/issues/21)
 - [3. 随手笔记之常用的 CSS 技巧](https://github.com/zenglinan/blog/issues/24)
-
+- [4. 随手笔记之 Canvas 基础](https://github.com/zenglinan/blog/issues/26)
 
 
