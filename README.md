@@ -19,7 +19,7 @@
 - [10. JavaScript 之深浅拷贝](https://github.com/zenglinan/blog/issues/17)
 
 > Vue.js
-- [28. Vue 的定义和构建过程](https://github.com/zenglinan/blog/issues/28)
+- [1. Vue 的定义和构建过程](https://github.com/zenglinan/blog/issues/28)
 
 
 > 性能优化
