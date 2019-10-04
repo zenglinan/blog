@@ -18,6 +18,10 @@
 - [9. JavaScript 之类型判断](https://github.com/zenglinan/blog/issues/9)
 - [10. JavaScript 之深浅拷贝](https://github.com/zenglinan/blog/issues/17)
 
+> Vue.js
+- [28. Vue 的定义和构建过程](https://github.com/zenglinan/blog/issues/28)
+
+
 > 性能优化
 - [1. 理解浏览器对页面的渲染过程](https://github.com/zenglinan/blog/issues/10)
 - [2. 懒加载和预加载 ](https://github.com/zenglinan/blog/issues/11)
