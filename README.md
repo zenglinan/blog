@@ -40,11 +40,12 @@
 
 > Others
 - [1. 浏览器的 Event Loop 机制](https://github.com/zenglinan/blog/issues/18)
+- [2. 常见跨域方式总结](https://github.com/zenglinan/blog/issues/29)
 
-> 随手笔记
-- [1. 随手笔记之对象中的属性遍历](https://github.com/zenglinan/blog/issues/19)
-- [2. 随手笔记之 Node.js 操作 redis](https://github.com/zenglinan/blog/issues/21)
-- [3. 随手笔记之常用的 CSS 技巧](https://github.com/zenglinan/blog/issues/24)
-- [4. 随手笔记之 Canvas 基础](https://github.com/zenglinan/blog/issues/26)
+> 随笔笔记
+- [1. 对象中的属性遍历](https://github.com/zenglinan/blog/issues/19)
+- [2. Node.js 操作 redis](https://github.com/zenglinan/blog/issues/21)
+- [3. 常用的 CSS 技巧](https://github.com/zenglinan/blog/issues/24)
+- [4. Canvas 基础](https://github.com/zenglinan/blog/issues/26)
 
 
