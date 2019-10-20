@@ -40,7 +40,7 @@
 > Others
 - [1. 浏览器的 Event Loop 机制](https://github.com/zenglinan/blog/issues/18)
 - [2. 常见跨域方式总结](https://github.com/zenglinan/blog/issues/29)
-- [3. 异步编程方案汇总](https://github.com/zenglinan/blog/issues/31)
+
 
 > 随笔笔记
 - [1. 对象中的属性遍历](https://github.com/zenglinan/blog/issues/19)
