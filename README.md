@@ -17,6 +17,7 @@
 - [8. JavaScript 之函数节流](https://github.com/zenglinan/blog/issues/8)
 - [9. JavaScript 之类型判断](https://github.com/zenglinan/blog/issues/9)
 - [10. JavaScript 之深浅拷贝](https://github.com/zenglinan/blog/issues/17)
+- [11. JavaScript 之实现响应式数据](https://github.com/zenglinan/blog/issues/33)
 
 > Vue.js
 - [1. 详尽的组件通信](https://github.com/zenglinan/blog/issues/30)
