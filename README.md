@@ -18,6 +18,7 @@
 - [9. JavaScript 之类型判断](https://github.com/zenglinan/blog/issues/9)
 - [10. JavaScript 之深浅拷贝](https://github.com/zenglinan/blog/issues/17)
 - [11. JavaScript 之实现响应式数据](https://github.com/zenglinan/blog/issues/33)
+- [12. 大白话 Promise 完整实现](https://github.com/zenglinan/blog/issues/34)
 
 > Vue.js
 - [1. 详尽的组件通信](https://github.com/zenglinan/blog/issues/30)
