@@ -19,6 +19,7 @@
 - [10. JavaScript 之深浅拷贝](https://github.com/zenglinan/blog/issues/17)
 - [11. JavaScript 之实现响应式数据](https://github.com/zenglinan/blog/issues/33)
 - [12. 大白话 Promise 完整实现](https://github.com/zenglinan/blog/issues/34)
+- [13. 从回调函数到 async await，理清异步编程解决方案](https://github.com/zenglinan/blog/issues/35)
 
 > Vue.js
 - [1. 详尽的组件通信](https://github.com/zenglinan/blog/issues/30)
