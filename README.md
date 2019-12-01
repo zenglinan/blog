@@ -23,7 +23,7 @@
 
 > Vue.js
 - [1. 详尽的组件通信](https://github.com/zenglinan/blog/issues/30)
-- [1. 详尽的组件通信](https://github.com/zenglinan/blog/issues/36)
+- [1. Vuex 笔记](https://github.com/zenglinan/blog/issues/36)
 
 > 性能优化
 - [1. 理解浏览器对页面的渲染过程](https://github.com/zenglinan/blog/issues/10)
