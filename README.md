@@ -13,13 +13,13 @@
 - [8. JavaScript 之函数节流](https://github.com/zenglinan/blog/issues/8)
 - [9. JavaScript 之类型判断](https://github.com/zenglinan/blog/issues/9)
 - [10. JavaScript 之深浅拷贝](https://github.com/zenglinan/blog/issues/17)
-- [11. JavaScript 之实现响应式数据](https://github.com/zenglinan/blog/issues/33)
-- [12. 大白话 Promise 完整实现](https://github.com/zenglinan/blog/issues/34)
-- [13. 从回调函数到 async await，理清异步编程解决方案](https://github.com/zenglinan/blog/issues/35)
+- [11. 大白话 Promise 完整实现](https://github.com/zenglinan/blog/issues/34)
+- [12. 从回调函数到 async await，理清异步编程解决方案](https://github.com/zenglinan/blog/issues/35)
 
 > Vue.js
 - [1. 详尽的组件通信](https://github.com/zenglinan/blog/issues/30)
-- [1. Vuex 笔记](https://github.com/zenglinan/blog/issues/36)
+- [2. Vuex 笔记](https://github.com/zenglinan/blog/issues/36)
+- [3. 响应式数据实现原理](https://github.com/zenglinan/blog/issues/33)
 
 > 性能优化
 - [1. 理解浏览器对页面的渲染过程](https://github.com/zenglinan/blog/issues/10)
