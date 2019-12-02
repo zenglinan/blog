@@ -1,9 +1,5 @@
 ## blog
-博文笔记的汇总处, 用于记录前端学习的各方面知识点。<br>
-
-目前正在回炉重造 JavaScript。<br>
-
-预计后面还会加入 ```HTTP、Node.js、数据结构与算法、设计模式、源码解读```等各方面的知识记录。
+博文笔记的汇总处, 用于记录前端学习的各方面知识点。
 
 ## 文章
 > JavaScript
@@ -41,15 +37,10 @@
 > HTTP
 - [1. 常见的鉴权手段](https://github.com/zenglinan/blog/issues/25)
 
+> 设计模式
+- [1. 发布订阅模式 && 观察者模式](https://github.com/zenglinan/blog/issues/37)
+
 > Others
 - [1. 浏览器的 Event Loop 机制](https://github.com/zenglinan/blog/issues/18)
 - [2. 常见跨域方式总结](https://github.com/zenglinan/blog/issues/29)
-
-
-> 随笔笔记
-- [1. 对象中的属性遍历](https://github.com/zenglinan/blog/issues/19)
-- [2. Node.js 操作 redis](https://github.com/zenglinan/blog/issues/21)
-- [3. 常用的 CSS 技巧](https://github.com/zenglinan/blog/issues/24)
-- [4. Canvas 基础](https://github.com/zenglinan/blog/issues/26)
-
 
