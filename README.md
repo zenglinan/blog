@@ -33,9 +33,10 @@
 - [2. 手撸手, 探究 Node.js 中的模块机制](https://github.com/zenglinan/blog/issues/16)
 - [3. Node.js 之 Mongoose 入门](https://github.com/zenglinan/blog/issues/20)
 - [4. Koa 之路由处理](https://github.com/zenglinan/blog/issues/27)
+- [5. 常见的鉴权手段](https://github.com/zenglinan/blog/issues/25)
 
-> HTTP
-- [1. 常见的鉴权手段](https://github.com/zenglinan/blog/issues/25)
+> 数据结构与算法
+- [1. 排序算法合集](https://github.com/zenglinan/blog/issues/38)
 
 > 设计模式
 - [1. 发布订阅模式 && 观察者模式](https://github.com/zenglinan/blog/issues/37)
