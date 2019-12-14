@@ -20,6 +20,7 @@
 - [1. 详尽的组件通信](https://github.com/zenglinan/blog/issues/30)
 - [2. Vuex 笔记](https://github.com/zenglinan/blog/issues/36)
 - [3. 响应式数据实现原理](https://github.com/zenglinan/blog/issues/33)
+- [4. 手把手讲解：Vuex 剖析与简单实现](https://github.com/zenglinan/blog/issues/39)
 
 > 性能优化
 - [1. 理解浏览器对页面的渲染过程](https://github.com/zenglinan/blog/issues/10)
