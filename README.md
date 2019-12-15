@@ -28,6 +28,7 @@
 - [3. 浏览器的重绘与回流](https://github.com/zenglinan/blog/issues/12)
 - [4. 浏览器存储方案](https://github.com/zenglinan/blog/issues/13)
 - [5. 图片选择的优化](https://github.com/zenglinan/blog/issues/23)
+- [6. HTTP 缓存与缓存更新方案](https://github.com/zenglinan/blog/issues/40)
 
 > Node.js
 - [1. 手撸手, 用 Node.js 摸一个仿 express 的 http 服务器](https://github.com/zenglinan/blog/issues/15)
