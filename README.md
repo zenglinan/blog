@@ -3,7 +3,7 @@
 
 ## 文章
 > JavaScript
-- [1. JavaScript 之自己实现数组方法](https://github.com/zenglinan/blog/issues/1)
+- [1. JavaScript 之实现10个常用的数组方法](https://github.com/zenglinan/blog/issues/1)
 - [2. JavaScript 之 let 的魔法](https://github.com/zenglinan/blog/issues/2)
 - [3. JavaScript 之实现 call apply](https://github.com/zenglinan/blog/issues/3)
 - [4. JavaScript 之数组去重](https://github.com/zenglinan/blog/issues/4)
@@ -13,29 +13,27 @@
 - [8. JavaScript 之函数节流](https://github.com/zenglinan/blog/issues/8)
 - [9. JavaScript 之类型判断](https://github.com/zenglinan/blog/issues/9)
 - [10. JavaScript 之深浅拷贝](https://github.com/zenglinan/blog/issues/17)
-- [11. 大白话 Promise 完整实现](https://github.com/zenglinan/blog/issues/34)
+- [11. 从零开始，Promise 完整实现](https://github.com/zenglinan/blog/issues/34)
 - [12. 从回调函数到 async await，理清异步编程解决方案](https://github.com/zenglinan/blog/issues/35)
 
 > Vue.js
 - [1. 详尽的组件通信](https://github.com/zenglinan/blog/issues/30)
-- [2. Vuex 笔记](https://github.com/zenglinan/blog/issues/36)
-- [3. 响应式数据实现原理](https://github.com/zenglinan/blog/issues/33)
-- [4. 手把手讲解：Vuex 剖析与简单实现](https://github.com/zenglinan/blog/issues/39)
+- [2. 响应式数据实现原理](https://github.com/zenglinan/blog/issues/33)
+- [3. 手把手讲解：Vuex 剖析与简单实现](https://github.com/zenglinan/blog/issues/39)
 
 > 性能优化
 - [1. 理解浏览器对页面的渲染过程](https://github.com/zenglinan/blog/issues/10)
 - [2. 懒加载和预加载 ](https://github.com/zenglinan/blog/issues/11)
 - [3. 浏览器的重绘与回流](https://github.com/zenglinan/blog/issues/12)
 - [4. 浏览器存储方案](https://github.com/zenglinan/blog/issues/13)
-- [5. 图片选择的优化](https://github.com/zenglinan/blog/issues/23)
-- [6. HTTP 缓存与缓存更新方案](https://github.com/zenglinan/blog/issues/40)
+- [5. HTTP 缓存与缓存更新方案](https://github.com/zenglinan/blog/issues/40)
 
 > Node.js
 - [1. 手撸手, 用 Node.js 摸一个仿 express 的 http 服务器](https://github.com/zenglinan/blog/issues/15)
 - [2. 手撸手, 探究 Node.js 中的模块机制](https://github.com/zenglinan/blog/issues/16)
 - [3. Node.js 之 Mongoose 入门](https://github.com/zenglinan/blog/issues/20)
 - [4. Koa 之路由处理](https://github.com/zenglinan/blog/issues/27)
-- [5. 常见的鉴权手段](https://github.com/zenglinan/blog/issues/25)
+- [5. Session、JWT鉴权](https://github.com/zenglinan/blog/issues/25)
 
 > 数据结构与算法
 - [1. 排序算法合集](https://github.com/zenglinan/blog/issues/38)
