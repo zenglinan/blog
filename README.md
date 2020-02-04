@@ -45,4 +45,5 @@
 - [1. 浏览器的 Event Loop 机制](https://github.com/zenglinan/blog/issues/18)
 - [2. 常见跨域方式总结](https://github.com/zenglinan/blog/issues/29)
 - [3. XSS和CSRF攻击及防范措施](https://github.com/zenglinan/blog/issues/41)
+- [4. 前端测试之 Jest 单元测试](https://github.com/zenglinan/blog/issues/42)
 
