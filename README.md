@@ -34,6 +34,7 @@
 - [3. Node.js 之 Mongoose 入门](https://github.com/zenglinan/blog/issues/20)
 - [4. Koa 之路由处理](https://github.com/zenglinan/blog/issues/27)
 - [5. Session、JWT鉴权](https://github.com/zenglinan/blog/issues/25)
+- [6. Node.js 中的 Stream](https://github.com/zenglinan/blog/issues/43)
 
 > 数据结构与算法
 - [1. 排序算法合集](https://github.com/zenglinan/blog/issues/38)
