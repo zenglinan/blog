@@ -21,12 +21,13 @@
 - [2. 响应式数据实现原理](https://github.com/zenglinan/blog/issues/33)
 - [3. 手把手讲解：Vuex 剖析与简单实现](https://github.com/zenglinan/blog/issues/39)
 
-> 性能优化
+> 性能相关
 - [1. 理解浏览器对页面的渲染过程](https://github.com/zenglinan/blog/issues/10)
 - [2. 懒加载和预加载 ](https://github.com/zenglinan/blog/issues/11)
 - [3. 浏览器的重绘与回流](https://github.com/zenglinan/blog/issues/12)
 - [4. 浏览器存储方案](https://github.com/zenglinan/blog/issues/13)
 - [5. HTTP 缓存与缓存更新方案](https://github.com/zenglinan/blog/issues/40)
+- [6. 前端性能监控之 Performance](https://github.com/zenglinan/blog/issues/44)
 
 > Node.js
 - [1. 手撸手, 用 Node.js 摸一个仿 express 的 http 服务器](https://github.com/zenglinan/blog/issues/15)
@@ -47,6 +48,6 @@
 - [2. 常见跨域方式总结](https://github.com/zenglinan/blog/issues/29)
 - [3. XSS和CSRF攻击及防范措施](https://github.com/zenglinan/blog/issues/41)
 - [4. 前端测试之 Jest 单元测试](https://github.com/zenglinan/blog/issues/42)
-- [5. 前端性能监控之 Performance](https://github.com/zenglinan/blog/issues/44)
+
 
 
