@@ -47,4 +47,6 @@
 - [2. 常见跨域方式总结](https://github.com/zenglinan/blog/issues/29)
 - [3. XSS和CSRF攻击及防范措施](https://github.com/zenglinan/blog/issues/41)
 - [4. 前端测试之 Jest 单元测试](https://github.com/zenglinan/blog/issues/42)
+- [5. 前端性能监控之 Performance](https://github.com/zenglinan/blog/issues/44)
+
 
